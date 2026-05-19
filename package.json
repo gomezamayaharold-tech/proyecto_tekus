@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-tekus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomezamayaharold-tech/proyecto_tekus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gomezamayaharold-tech/proyecto_tekus/issues"
+  },
+  "homepage": "https://github.com/gomezamayaharold-tech/proyecto_tekus#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
